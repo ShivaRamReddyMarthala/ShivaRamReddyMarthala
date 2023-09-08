@@ -1,5 +1,5 @@
 ## Hi there 👋
-###Shiva Ram Reddy Marthala
+# Shiva Ram Reddy Marthala
 
 - 🔭 I’m currently Pursuing Masters in Computer Science at NWMSU.
 - 👯 I’m looking to collaborate on Web development,S/W,DS,Deveops.
