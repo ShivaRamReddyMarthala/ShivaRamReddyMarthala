@@ -1,8 +1,8 @@
 ## Hi there 👋
 # Shiva Ram Reddy Marthala
 
-- 🔭 I’m currently Pursuing Masters in Computer Science at NWMSU.
-- 👯 I’m looking to collaborate on Web development,S/W,DS,Deveops.
+- 🔭 I completed my Masters in Computer Science at NWMSU.
+- 👯 I’m looking to collaborate on Software Development, JAVA Full Stack Development, Web development.
 - 💬 Ask me about anything 
-- 📫 How to reach me: shivamarthala.bi@gmail.com
+- 📫 How to reach me: shivaram89.bi@gmail.com
 
